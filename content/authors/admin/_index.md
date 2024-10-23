@@ -51,7 +51,7 @@ work:
   - position: Amazon Web Service
     company_name: Software Engineer Intern
     company_url: 'https://aws.amazon.com/'
-    company_logo: 'aws.png'
+    company_logo: 'https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000'
     date_start: 2024-06-01
     date_end: '2024-08-31'
     summary: |2-
@@ -74,6 +74,14 @@ work:
     date_end: 2024-04-30
     summary: |
       Privacy and Security
+  - position: Electronic Arts
+    company_name: Software Engineer Intern
+    company_url: 'https://www.ea.com/'
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: 2022-12-31
+    summary: |
+      Game Development
      
 
 # Skills
@@ -83,15 +91,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 85
+        percent: 90
         icon: devicon/python
       - name: Go
         description: ''
-        percent: 80
+        percent: 85
         icon: devicon/go
       - name: C++
         description: ''
-        percent: 80
+        percent: 85
         icon: devicon/cplusplus
       - name: HTML
         description: ''
@@ -111,11 +119,11 @@ skills:
     items:
       - name: PyTorch
         description: ''
-        percent: 80
+        percent: 82
         icon: devicon/pytorch
       - name: AWS
         description: ''
-        percent: 85
+        percent: 87
         icon: devicon/amazonwebservices
       - name: MySQL
         description: ''

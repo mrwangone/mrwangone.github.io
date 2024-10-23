@@ -42,8 +42,8 @@ profiles:
 education:
   - area: Bachelor of Computer Science
     institution: University of Waterloo
-    date_start: 2020-09
-    date_end: 2025-04
+    date_start: 2020-09-01
+    date_end: 2025-04-30
     summary: |
       GPA: 85/100
       

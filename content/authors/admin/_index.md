@@ -83,7 +83,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 85
         icon: devicon/python
       - name: Go
         description: ''
@@ -111,11 +111,11 @@ skills:
     items:
       - name: PyTorch
         description: ''
-        percent: 75
+        percent: 80
         icon: devicon/pytorch
       - name: AWS
         description: ''
-        percent: 90
+        percent: 85
         icon: devicon/amazonwebservices
       - name: MySQL
         description: ''
@@ -127,7 +127,7 @@ skills:
         icon: devicon/redis
       - name: Linux
         description: ''
-        percent: 80
+        percent: 78
         icon: devicon/linux
       - name: gRPC
         description: ''
@@ -144,4 +144,4 @@ languages:
 
 
 ---
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I’m currently a forth year student at the University of Waterloo with extensive internship experience at tech companies. Recently, I’ve developed a strong interest in AI, particularly deep learning application in the medical field, and I’m actively learning and working on exciting projects in this area.

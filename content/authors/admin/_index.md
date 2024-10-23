@@ -47,33 +47,34 @@ education:
     summary: |
       GPA: 85/100
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Software Engineer Intern
     company_name: Amazon Web Service
     company_url: 'https://aws.amazon.com/'
-    company_logo: 'https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000'
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-06-01
+    date_end: '2024-08-31'
+    summary: |2-
+      CloudFront
+      
+  - position: Software Engineer Intern
+    company_name: TikTok
+    company_url: 'https://www.tiktok.com/'
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2023-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Privacy and Security
+
+  - position: Software Engineer Intern
+    company_name: TikTok
+    company_url: 'https://www.tiktok.com/'
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: 2023-4-31
+    summary: |
+      Privacy and Security
+     
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

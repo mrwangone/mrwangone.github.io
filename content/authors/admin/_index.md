@@ -71,7 +71,7 @@ work:
     company_url: 'https://www.tiktok.com/'
     company_logo: ''
     date_start: 2024-01-01
-    date_end: 2023-4-31
+    date_end: 2023-04-31
     summary: |
       Privacy and Security
      
@@ -93,22 +93,7 @@ skills:
         description: ''
         percent: 40
         icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  
 
 languages:
   - name: English

@@ -35,7 +35,7 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Programming Languages & Others
       username: admin
   - block: awards
     content:

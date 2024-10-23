@@ -28,16 +28,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:y3749wan@uwaterloo.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mrwangone
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/yi-wang-one
+
 
 education:
   - area: Bachelor of Computer Science
@@ -51,7 +48,7 @@ work:
   - position: Amazon Web Service
     company_name: Software Engineer Intern
     company_url: 'https://aws.amazon.com/'
-    company_logo: 'https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000'
+    company_logo: ''
     date_start: 2024-06-01
     date_end: '2024-08-31'
     summary: |2-

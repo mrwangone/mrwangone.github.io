@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ''
+title: Yi Wang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -10,7 +10,7 @@ first_name: Yi
 last_name: Wang
 
 # Status emoji
-status:
+status: 
   icon: 🦾
 
 # Is this the primary user of the site?
@@ -40,22 +40,22 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Computer Science
+    institution: University of Waterloo
+    date_start: 2020-09
+    date_end: 2025-04
     summary: |
-      GPA: 3.4/4.0
+      GPA: 85/100
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+  - position: Software Engineer Intern
+    company_name: Amazon Web Service
+    company_url: 'https://aws.amazon.com/'
+    company_logo: 'https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-

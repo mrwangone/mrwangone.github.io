@@ -71,7 +71,7 @@ work:
     company_url: 'https://www.tiktok.com/'
     company_logo: ''
     date_start: 2024-01-01
-    date_end: 2023-04-31
+    date_end: 2024-04-30
     summary: |
       Privacy and Security
      
@@ -83,16 +83,56 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 85
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 70
         icon: devicon/pytorch
+      - name: AWS
+        description: ''
+        percent: 90
+        icon: devicon/amazonwebservices
+      - name: Go
+        description: ''
+        percent: 75
+        icon: devicon/go
+      - name: C++
+        description: ''
+        percent: 80
+        icon: devicon/cplusplus
+      - name: Git
+        description: ''
+        percent: 95
+        icon: devicon/git
+      - name: MySQL
+        description: ''
+        percent: 85
+        icon: devicon/mysql
+      - name: Redis
+        description: ''
+        percent: 70
+        icon: devicon/redis
+      - name: Linux
+        description: ''
+        percent: 90
+        icon: devicon/linux
+      - name: gRPC
+        description: ''
+        percent: 65
+        icon: ''
+      - name: HTML
+        description: ''
+        percent: 80
+        icon: devicon/html5
+      - name: CSS
+        description: ''
+        percent: 75
+        icon: devicon/css3
+      - name: JavaScript
+        description: ''
+        percent: 75
+        icon: devicon/javascript
   
 
 languages:

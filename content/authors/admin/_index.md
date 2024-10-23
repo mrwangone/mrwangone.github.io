@@ -48,17 +48,17 @@ education:
       GPA: 85/100
       
 work:
-  - position: Software Engineer Intern
-    company_name: Amazon Web Service
+  - position: Amazon Web Service
+    company_name: Software Engineer Intern
     company_url: 'https://aws.amazon.com/'
-    company_logo: ''
+    company_logo: 'aws.png'
     date_start: 2024-06-01
     date_end: '2024-08-31'
     summary: |2-
       CloudFront
       
-  - position: Software Engineer Intern
-    company_name: TikTok
+  - position: TikTok
+    company_name: Software Engineer Intern
     company_url: 'https://www.tiktok.com/'
     company_logo: ''
     date_start: 2023-09-01
@@ -66,8 +66,8 @@ work:
     summary: |
       Privacy and Security
 
-  - position: Software Engineer Intern
-    company_name: TikTok
+  - position: TikTok
+    company_name: Software Engineer Intern
     company_url: 'https://www.tiktok.com/'
     company_logo: ''
     date_start: 2024-01-01
